@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    background-color: #000300; /* Black */
+    font-family: "Tiny5", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color:white;
+  }
+
+#Headline {
+  padding: 10px;
+}
+  #Underline {
+    border-bottom: 4px white solid;
+}
+
+.full-width {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
